@@ -4,7 +4,6 @@
 ---
 
 Learning to define two adversarial networks (generator & discriminator) and training them until realistic images of faces are generated.
----
 
 
 **Course Lessons Overview**
