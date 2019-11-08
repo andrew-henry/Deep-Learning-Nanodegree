@@ -2,6 +2,8 @@
 
 This repository contains the implementations of the projects from Udacity Deep Learning Nanodegree
 
+![udacity](https://user-images.githubusercontent.com/30737713/68446054-9b9bc800-01a9-11ea-9fc4-6ee0630356e2.png)
+
 
 ### Projects
 ---
